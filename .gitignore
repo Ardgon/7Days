@@ -8,8 +8,4 @@ Redist/*
 7dLauncher*
 Unity*
 WindowsPlayer*
-
-/Data/*
-!Data/Worlds/
-Data/Worlds/*
-!Data/Worlds/Navezgane
+Data/*
